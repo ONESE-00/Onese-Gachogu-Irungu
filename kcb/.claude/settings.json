@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm install *)",
+      "Bash(npx shadcn@latest add card checkbox table dialog input label select separator sheet sidebar sonner tooltip --yes)"
+    ]
+  }
+}
